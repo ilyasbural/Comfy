@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Comfy.Core\Comfy.Core.csproj" />
+    <ProjectReference Include="..\Comfy.DataAccess\Comfy.DataAccess.csproj" />
   </ItemGroup>
 
 </Project>
