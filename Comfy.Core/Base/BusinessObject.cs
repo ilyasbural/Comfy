@@ -2,9 +2,9 @@
 {
 	public class BusinessObject
 	{
-        public BusinessObject()
-        {
-            
-        }
-    }
+		public BusinessObject()
+		{
+
+		}
+	}
 }
